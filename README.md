@@ -72,16 +72,5 @@ Bitbucket by Atlassian is widely used in enterprise DevOps pipelines and offers 
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
-
----
 
 **Happy DevOps-ing! 🚀**
